@@ -51,6 +51,15 @@ body {
   min-height: 250px;
 }
 
+#services-header {
+  position: relative;
+  background: url(../img/image1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed; /* image fixed position */
+  min-height: 250px;
+}
+
 .dark-overlay {
   position: absolute;
   top: 0;
@@ -77,4 +86,12 @@ body {
 
 #about-img1 {
   margin-top: -100px;
+}
+
+#faq .card {
+  background: #333;
+}
+
+#faq a {
+  color: white;
 }

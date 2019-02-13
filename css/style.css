@@ -44,7 +44,8 @@ body {
 
 #about-header,
 #services-header,
-#blog-header {
+#blog-header,
+#contact-header {
   position: relative;
   background: url(../img/image1.jpg);
   background-repeat: no-repeat;

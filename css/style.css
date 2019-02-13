@@ -42,16 +42,9 @@ body {
   min-height: 250px;
 }
 
-#about-header {
-  position: relative;
-  background: url(../img/image1.jpg);
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-attachment: fixed; /* image fixed position */
-  min-height: 250px;
-}
-
-#services-header {
+#about-header,
+#services-header,
+#blog-header {
   position: relative;
   background: url(../img/image1.jpg);
   background-repeat: no-repeat;
